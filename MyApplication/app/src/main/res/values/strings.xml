@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="q1">Ты здесь?</string>
+    <string name="q2">Ты человек?</string>
+    <string name="q3">Ты устал?</string>
+    <string name="q4">Ты жив?</string>
+    <string name="false_text">Нет</string>
+    <string name="true_text">Да</string>
+    <string name="cheater_text">Фу, списывать плохо</string>
+</resources>
